@@ -1,0 +1,11 @@
+{
+    "name": "php94/session",
+    "description": "php session",
+    "type": "library",
+    "license": "GPL-3.0",
+    "autoload": {
+        "psr-4": {
+            "PHP94\\Session\\": "src/"
+        }
+    }
+}
